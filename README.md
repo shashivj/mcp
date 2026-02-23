@@ -287,7 +287,7 @@ You can also use the `--neo4j-telemetry` CLI flag to override this setting.
 
 ## Documentation
 
-📘 **[Client Setup Guide](docs/CLIENT_SETUP.md)** – Configure VSCode, Claude Desktop, and other MCP clients (STDIO and HTTP modes)
+📘 **[Client Setup Guide](docs/CLIENT_SETUP.md)** – Configure VSCode, Claude Desktop, Amazon Kiro, and other MCP clients (STDIO and HTTP modes)
 📚 **[Contributing Guide](CONTRIBUTING.md)** – Contribution workflow, development environment, mocks & testing
 
 Issues / feedback: open a GitHub issue with reproduction details (omit sensitive data).
